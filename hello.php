@@ -10,3 +10,7 @@ print "Hello PHP<br>";
  <?="Hello PHP";?>
 
 
+<?php
+echo "Test new hello";
+
+?>
